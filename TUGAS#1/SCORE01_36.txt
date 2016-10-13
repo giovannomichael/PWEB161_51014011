@@ -1,0 +1,8 @@
++10 Tugas selesai minimal 5 lagu
++10 untuk lima lirik oke
++2 untuk background index
++5 background seragam dengan index
++5 untuk lagu yang bisa kembali ke index
++2 untuk judul lagu yang ada di wikipedia
++2 link ke profil FB dari halaman index
+
