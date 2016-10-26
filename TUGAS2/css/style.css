@@ -1,6 +1,6 @@
 body
 {
-	background-color: #ddee00;
+	background-color: Purple ;
 }
 
 img
@@ -22,3 +22,45 @@ h1
 	font-size: 48px;
 	font-family: verdana;
 }
+.Kuning
+	{
+	Color: Yellow ;
+}
+
+.Merah {
+	color: #F00;
+}
+
+.Biru {
+	color: #00F;
+}
+
+.Hijau {
+	color: #0F0;
+}
+
+.Hitam {
+	color: #000;
+}
+
+.Putih {
+	color: #FFF;
+}
+
+.TeksKanan {
+	text-align: right;
+}
+
+.TeksKiri {
+	text-align: left;
+}
+
+.TeksTengah {
+	text-align: center;
+}
+
+.TeksKiriKanan {
+	text-align: justify;
+}
+
+.	
