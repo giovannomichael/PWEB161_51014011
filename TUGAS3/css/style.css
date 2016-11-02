@@ -1,0 +1,119 @@
+body
+{
+	background-image : url("../img/0006.jpg");
+}
+.clear
+{
+	clear : both ;
+}
+.floatkiri
+{
+	float: left;
+}
+.floatkanan
+{
+	float: right;
+}
+img
+{
+	width: 300px;
+}
+.border
+{
+	border : 3px solid white ;
+	border-radius : 15px ;
+}
+
+h1
+{
+	color: #FF69B4;
+	font-weight: bold;
+	font-size: 36px;
+	font-family: verdana;
+	
+}
+.judulutama
+{
+	color: #ff00ff;
+	font-weight: bold;
+	font-size: 48px;
+	font-family: verdana;
+}
+
+.daftarlagu{
+width: 500px;
+height: 650px;
+
+border-radius: 25px;
+padding: 10px
+margin:10px;
+float: center;
+overflow-y: scroll;
+}
+
+
+
+
+
+.Kuning
+	{
+	Color: #FFFF00 ;
+}
+
+.Navy{
+	color: #000080;
+}
+
+.Lime{
+	color: #00FF00;
+}
+
+.Gold{
+	color: #FFD700;
+}
+
+.Magenta{
+	color: #FF00FF;
+}
+
+.Merah {
+	color: #F00;
+}
+
+.Biru {
+	color: #00F;
+}
+
+.Orchid {
+	color: #DA70D6;
+}
+
+.Hijau {
+	color: #0F0;
+}
+
+.Hitam {
+	color: #000;
+}
+
+.Ungu {
+	color: #EE82EE;
+}
+
+.TeksKanan {
+	text-align: right;
+}
+
+.TeksKiri {
+	text-align: left;
+}
+
+.TeksTengah {
+	text-align: center;
+}
+
+.TeksKiriKanan {
+	text-align: justify;
+}
+
+.	
