@@ -1,0 +1,6 @@
++10 untuk tugas selesai (sudah upload github sebelum tanggal 02/11/2016 23:59pm)
++5 untuk setiap selector yang lebih dari lima property
++12 untuk setiap class ke-5 sampai class ke-10
+-11 untuk setiap class ke-11 dst
+-5 untuk tampilan yang rusak (gambar tertumpuk)
+
